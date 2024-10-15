@@ -1,4 +1,4 @@
-<h1 align = "center">SistemaBancario</h1>
+<h1 align = "center">Sistema Bancário</h1>
 
 <p>App em linguagem Java que simula o funcionamento de uma conta bancária.</p>
 

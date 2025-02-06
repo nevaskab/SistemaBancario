@@ -41,5 +41,4 @@ Legal! Agora você tem uma cópia do projeto para modificar e testar no seu edit
 
 Feito por Andressa Martins. Entre em contato <3.
 
-<a><img alt="Static Badge" src="https://img.shields.io/badge/Andressa%20Martins-black?style=flat&logo=linkedin&logoColor=%230A66C2&logoSize=auto&color=EDF2F4&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fandressa-martins-dev%2F"></a>
 <a href="mailto:andressa.devsystem@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/andressa.devsystem%40gmail.com-black?style=flat&logo=gmail&logoColor=%23EA4335&logoSize=auto&color=EDF2F4"></a>
